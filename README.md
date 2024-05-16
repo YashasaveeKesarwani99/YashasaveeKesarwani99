@@ -17,7 +17,7 @@ Here for mainiting and commiting to my work, interests and hobbies.
 
 
 
-- 🔭 I’m currently working for Blue Sky Analytics
+- 🔭 I’m currently working for Karbon
 - 📫 How to reach me: yashasvikesarwani1@gmail.com
 
 
